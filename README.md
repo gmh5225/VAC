@@ -1,9 +1,12 @@
 # VAC-Valve-Anti-Cheat-
 
-> Hi, i made VAC (Valve Anti-Cheat) source example on c# / .NET
+> Hi, its VAC (Valve Anti-Cheat) source example [C# / .NET FrameWork]
 
-> -> Currently under development.
+> -> This development is not over :)
 
 
-Features
-> 1
+Features:
+> -> Getting user information. (HWID, IP Address, BIOS, Processor ID etc..)
+> -> Getting Processes information / Advanced processes scanning (external cheat dedection)
+> -> Simple Aimbot dedection example
+> 
