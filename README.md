@@ -1,5 +1,3 @@
-Hi, its VAC (Valve Anti-Cheat) source example [C# / .NET FrameWork]
-
 > -> This development is not over :)
 
 
