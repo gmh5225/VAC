@@ -9,4 +9,5 @@ Features:
 > -> Simple Aimbot dedection example
 
 > -> Internal cheat dedection; Getting CS:GO Modules and comparing with those in the safe list. cuz when a cheat is injected, the module that is not in the safe list is added
+NOT
 
