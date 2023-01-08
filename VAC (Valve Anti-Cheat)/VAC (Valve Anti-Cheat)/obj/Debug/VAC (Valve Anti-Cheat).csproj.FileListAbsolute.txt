@@ -1,0 +1,8 @@
+C:\Users\csacc\source\repos\VAC (Valve Anti-Cheat)\VAC (Valve Anti-Cheat)\bin\Debug\VAC (Valve Anti-Cheat).exe.config
+C:\Users\csacc\source\repos\VAC (Valve Anti-Cheat)\VAC (Valve Anti-Cheat)\bin\Debug\VAC (Valve Anti-Cheat).exe
+C:\Users\csacc\source\repos\VAC (Valve Anti-Cheat)\VAC (Valve Anti-Cheat)\bin\Debug\VAC (Valve Anti-Cheat).pdb
+C:\Users\csacc\source\repos\VAC (Valve Anti-Cheat)\VAC (Valve Anti-Cheat)\obj\Debug\VAC (Valve Anti-Cheat).csproj.AssemblyReference.cache
+C:\Users\csacc\source\repos\VAC (Valve Anti-Cheat)\VAC (Valve Anti-Cheat)\obj\Debug\VAC (Valve Anti-Cheat).csproj.SuggestedBindingRedirects.cache
+C:\Users\csacc\source\repos\VAC (Valve Anti-Cheat)\VAC (Valve Anti-Cheat)\obj\Debug\VAC (Valve Anti-Cheat).csproj.CoreCompileInputs.cache
+C:\Users\csacc\source\repos\VAC (Valve Anti-Cheat)\VAC (Valve Anti-Cheat)\obj\Debug\VAC (Valve Anti-Cheat).exe
+C:\Users\csacc\source\repos\VAC (Valve Anti-Cheat)\VAC (Valve Anti-Cheat)\obj\Debug\VAC (Valve Anti-Cheat).pdb
