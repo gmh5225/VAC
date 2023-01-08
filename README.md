@@ -7,4 +7,6 @@ Features:
 > -> Getting Processes information / Advanced processes scanning (external cheat dedection)
 
 > -> Simple Aimbot dedection example
-> 
+
+> -> Internal cheat dedection; Getting CS:GO Modules and comparing with those on the safe list. cuz when a cheat is injected, the module that is not in the safe list is added
+
